@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "817049035554",
+    "firebase_url": "https://myloactiontracker.firebaseio.com",
+    "project_id": "myloactiontracker",
+    "storage_bucket": "myloactiontracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817049035554:android:65917f8c6a1d56104c7b7b",
+        "android_client_info": {
+          "package_name": "com.example.myloactiontracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817049035554-5pgorc86n9helsk9ibb067rs2n8b76ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myloactiontracker",
+            "certificate_hash": "7c0866b09fd4e8532dc766ba503bcf6736c0a565"
+          }
+        },
+        {
+          "client_id": "817049035554-6e06bndnanj6amqtb14k30mdhmvm4odd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUUzkb_tmHr5rfhYkrp9lPVuJtw-wRec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817049035554-6e06bndnanj6amqtb14k30mdhmvm4odd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
